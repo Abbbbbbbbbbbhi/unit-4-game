@@ -1,0 +1,27 @@
+
+body{
+
+}
+img{
+    height: 250px;
+    width: 200px;
+}
+.grey{
+    filter: grayscale();
+}
+.score{
+    
+    font-family: fantasy;
+    color: greenyellow;
+    background-color: pink;
+    outline: black groove 2px;
+    margin: 2px 0px;
+    font-size: 4em;
+    font-weight: bolder;
+    padding-left: 1em;
+    user-select: none;
+
+}
+.aa{
+    color:purple;
+}
