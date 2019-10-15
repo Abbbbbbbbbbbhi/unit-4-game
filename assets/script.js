@@ -34,7 +34,7 @@ function OnClick(amount){
         document.querySelector(".difference").textContent = difference;
         if(difference == 0){
             console.log("win");
-
+            win = true;
             gameover = true;
         }
         if (difference < 0){
